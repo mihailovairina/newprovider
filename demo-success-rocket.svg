@@ -1,0 +1,15 @@
+<svg width="88" height="88" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rocket" x1="23" y1="13" x2="66" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#71A6FF"/>
+      <stop offset="1" stop-color="#C56BFF"/>
+    </linearGradient>
+  </defs>
+  <path d="M44 8C35.2 18.4 32 28.1 32 41.5V55H56V41.5C56 28.1 52.8 18.4 44 8Z" stroke="url(#rocket)" stroke-width="1.8" stroke-linejoin="round"/>
+  <circle cx="44" cy="28" r="4" stroke="url(#rocket)" stroke-width="1.8"/>
+  <path d="M32 36.5C24.3 39.7 20 46.8 20 55.5V62L32 56.5V36.5Z" stroke="url(#rocket)" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M56 36.5C63.7 39.7 68 46.8 68 55.5V62L56 56.5V36.5Z" stroke="url(#rocket)" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M38 55V65M44 55V70M50 55V65" stroke="url(#rocket)" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M35 70C35 75 31.5 79 27 79C22.5 79 19 75.5 19 71.5C19 68.5 21.2 66 24 66C26.8 66 29 68.2 29 71C29 73 27.6 74.5 26 74.5" stroke="url(#rocket)" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M53 70C53 75 56.5 79 61 79C65.5 79 69 75.5 69 71.5C69 68.5 66.8 66 64 66C61.2 66 59 68.2 59 71C59 73 60.4 74.5 62 74.5" stroke="url(#rocket)" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
